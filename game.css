@@ -1,7 +1,5 @@
 body{
     color: #fff;
-    
-
 }
 
 .choice-container {
@@ -54,13 +52,14 @@ body{
 .hud-prefix {
     text-align: center;
     font-size: 2rem;
+    color:black;
 }
 
 .hud-main-text {
     text-align: center;
 }
 
-#progressbar {
+#progressBar {
     width: 20rem;
     height: 3rem;
     border: 0.2rem solid rgb(11,223,36);
